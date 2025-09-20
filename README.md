@@ -1,6 +1,6 @@
 # ScreenRip
 
-ScreenRip is a basic macOS screenshot tool with scrolling automation & keyboard macros. This is not a serious project - it was mostly built to get something working for archiving long webpages.
+ScreenRip is a basic macOS screenshot tool with scrolling automation & keyboard macros. This is not a serious project - it was mostly built to get something working for archiving long webpages (and built is a strong word if you catch the meaning).
 ## Features
 
 - **Multiple Screenshots**: Capture sequences of 1-50 screenshots with configurable timing
