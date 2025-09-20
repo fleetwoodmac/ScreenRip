@@ -8,6 +8,14 @@ ScreenRip is a basic macOS screenshot tool with scrolling automation & keyboard 
 - **Specifiable Delay**: Set precise delays between captures (0.1-30.0 seconds)
 - **Basic Custom File Naming**: Add prefix/suffix text with sequential numbering or timestamp uniqueness
 
+### Media
+<img width="1080" height="850" alt="image" src="https://github.com/user-attachments/assets/889ddb23-d907-47c1-be44-ca14c167cf4d" />
+
+
+https://github.com/user-attachments/assets/a49b2425-4628-491d-ac12-a29df54c74eb
+
+
+
 ## System Requirements
 
 - **macOS 13.0** or later
