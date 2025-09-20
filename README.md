@@ -6,7 +6,7 @@
 ScreenRip is a basic macOS screenshot tool with scrolling automation & keyboard macros. This is not a serious project - it was mostly built to get something working for archiving long webpages (and built is a strong word if you catch the meaning).
 ## Features
 
-- **Multiple Screenshots**: Capture sequences of 1-50 screenshots with configurable timing
+- **Multiple Screenshots**: Capture sequences of 1-1000 screenshots with configurable timing
 - **Auto-Scroll/Page Turn**: Automatically scroll between captures using scroll wheel stepping or keyboard buttons (arrows, page up/down, space, etc.)
 - **Specifiable Delay**: Set precise delays between captures (0.1-30.0 seconds)
 - **Basic Custom File Naming**: Add prefix/suffix text with sequential numbering or timestamp uniqueness
